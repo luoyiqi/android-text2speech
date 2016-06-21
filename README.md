@@ -10,7 +10,7 @@ android text2speech - 安卓语音合成工具
 ##使用
 添加服务配置
 ```
-<service android:name="com.liangmayong.text2speech.Text2SpeechService"
+<service android:name="com.liangmayong.text2speech.Text2SpeechService" />
 ```
 然后通过Text2Speech类就可以完成语音合成了
 
